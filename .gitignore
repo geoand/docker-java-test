@@ -1,0 +1,12 @@
+# Build files
+*.class
+target
+
+# Package Files #
+*.jar
+
+# IDE files
+.idea
+*.iml
+.classpath
+
